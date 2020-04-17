@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "Welcometo our secound slide!"
+title: "Welcome to our secound slide!"
 --- Your test
 "change line five yes"
